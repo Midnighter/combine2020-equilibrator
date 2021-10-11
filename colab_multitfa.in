@@ -1,0 +1,5 @@
+cobra <0.22
+cplex
+multitfa
+numpy
+pandas
